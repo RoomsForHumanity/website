@@ -309,3 +309,17 @@ li>p {
     text-decoration: none;
     cursor: pointer;
 }
+
+
+
+.image {
+    position:relative;
+}
+
+.text {
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 30px;
+    width: 100%
+}
