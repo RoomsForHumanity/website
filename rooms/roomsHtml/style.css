@@ -363,3 +363,8 @@ header.masthead .intro-text .intro-heading {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
 }
+
+.navigationTop{
+  border: none;
+  padding: 15px 32px;
+}
