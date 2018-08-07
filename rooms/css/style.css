@@ -122,16 +122,14 @@ a:active {
   font-size: 18px;
   padding: 15px 40px;
   display: inline-block;
-  background-color: #f9a743;
-  -moz-box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
-  -webkit-box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
-  box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
+  background-color: #064763;
+
   background-image: -moz-linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
   background-image: -o-linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
   background-image: -webkit-linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
   background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%); }
   .btn-main:hover, .btn-main:focus {
-    background-color: #f9a743;
+    background-color: #064763;
     color: #fff; }
 
 .btn-main-sm {
