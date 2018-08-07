@@ -98,6 +98,20 @@ input:focus {
     color: white;
     margin-left: 5px;
     cursor: pointer;
+    padding: 15px 32px;
+    font-size: 20px;
+}
+
+#mainButton {
+    background-color: #064763;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    margin-left: 5px;
+    cursor: pointer;
+    padding: 30px 64px;
+    font-size: 20px;
+
 }
 
 #login-text {
